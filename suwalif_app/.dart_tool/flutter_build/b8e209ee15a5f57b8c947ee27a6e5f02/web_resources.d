@@ -1,0 +1,1 @@
+ build/web/manifest.json:  /Users/lama/.openclaw/workspace/nightly-build-2026-02-06/suwalif_app/web/index.html /Users/lama/.openclaw/workspace/nightly-build-2026-02-06/suwalif_app/web/manifest.json
